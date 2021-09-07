@@ -1,4 +1,4 @@
-## GoStack Bootcamp Bonus 1
+## GoStack Bootcamp Bonus 4
 
 > 🚀 Practical project of the [Rocketseat](https://rocketseat.com.br) GoStack Bootcamp.  
 👷 Developed by Matheus Ramalho de Oliveira.  
@@ -14,16 +14,22 @@
 </p>
 
 <p align="center">
-    Bonus 1: Flexbox
+    Bonus 4, AdonisJS: GoNode
 </p>
 
 ---
 
-### Screenshot
+### 🚀 Installation and execution
 
-<p align="center">
-  <img src="screenshots/1.png" />
-</p>
+1. Make a clone of this repository;
+2. Enter the folder running `cd gostack-bonus-04-adonisjs-gonode`;
+3. Run `yarn` to install dependencies;
+4. Create a database in `postgres` with the name of `adonis`;
+5. Rename the `.env.example` file to `.env`;
+6. Put your credentials within `.env`;
+7. Run `yarn sequelize db:migrate` to execute the migrations;
+8. Run `yarn start` to start the development server;
+9. Import the `insomnia/index.json` file in Insomnia to make calls to api.
 
 ---
 
